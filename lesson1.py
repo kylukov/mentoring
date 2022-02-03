@@ -18,12 +18,12 @@ for i in range(n):
 print(array2)"""
 
 
-""""Вложенный циклы"
+"Вложенный циклы"
 "как вывести все числа составленные из цифр?"
 test = ['3', '2', '1']
 for i in range(len(test)):
     for j in range(int(len(test))):
-        print(test[i] + test[j])"""
+        print(test[i] + test[j])
 
 "Нахождение всех делителей числа"
 
